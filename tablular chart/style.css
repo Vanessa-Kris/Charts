@@ -1,0 +1,12 @@
+.body {
+    width: 1000px;
+    height: 300px;
+    padding: 10px;
+    /* background-color: aqua; */
+    display: block;
+}
+
+
+.pt-3-half {
+    padding-top: 1.4rem;
+  }
